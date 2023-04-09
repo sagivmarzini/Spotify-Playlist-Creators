@@ -12,7 +12,7 @@ This repository contains two Python scripts for interacting with the Spotify API
 ### [Script 1](Text2Playlist.py): Create a Playlist from a List of Songs
 This script prompts the user to enter a list of song names and a playlist name. It then creates a new public playlist on the user's Spotify account and searches for each song in the list, adding the first result to the playlist.
 
-### Script 2: Combine Two Playlists into One
+### [Script 2](MergePlaylists.py): Combine Two Playlists into One
 This script prompts the user to enter the URLs of two Spotify playlists. It then retrieves all tracks from both playlists, removes duplicates, and creates a new public playlist with the combined tracks.
 
 ## Contributing
